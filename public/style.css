@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background: #f7f7f7;
+}
+
+h1 {
+    color: #2c7;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}

@@ -1,0 +1,10 @@
+{
+    "name": "marcelo/lotofacil-analytics",
+    "description": "Sistema de análise estatística e desdobramento da Lotofácil",
+    "autoload": {
+        "psr-4": {
+            "Lotofacil\\": "src/"
+        }
+    },
+    "require": {}
+}
